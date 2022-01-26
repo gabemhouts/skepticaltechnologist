@@ -5,6 +5,7 @@ author = "Gabe Houts"
 cover = ""
 description = "Welcome to the Skeptical Technologist website!"
 draft = "false"
+type = "post"
 +++
 
 Welcome to the Skeptical Technologist website!
