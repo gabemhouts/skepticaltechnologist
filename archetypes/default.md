@@ -5,4 +5,5 @@ author = "Gabe Houts"
 cover = ""
 description = ""
 draft = "true"
+type = "posts"
 +++
