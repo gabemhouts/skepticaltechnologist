@@ -1,6 +1,6 @@
 +++
 title = "The Internet Panopticon"
-date = "2022-01-29"
+date = "2022-01-31"
 author = "Gabe Houts"
 cover = "img/panopticon.webp"
 description = "In recent times, internet surveillance has gotten to the point that people have come to expect that their every move is being watched."

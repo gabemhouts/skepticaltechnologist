@@ -1,6 +1,6 @@
 +++
 title = "Welcome!"
-date = "2022-01-29"
+date = "2022-01-30"
 author = "Gabe Houts"
 cover = ""
 description = "Welcome to the Skeptical Technologist website!"
