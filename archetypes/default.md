@@ -7,3 +7,13 @@ description = ""
 draft = "true"
 type = "posts"
 +++
+
+
+
+
+-Gabe Houts
+
+---
+
+Have any questions, comments, or concerns? Please dont hesitate to [contact us](/contact-us)!
+<feedback@skepticaltechnologist.org>

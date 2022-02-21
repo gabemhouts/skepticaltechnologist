@@ -23,3 +23,10 @@ My name is Gabe Houts. Born in the age of the internet, I have grown to know no 
 Since I strongly believe in online privacy, this site will have absolutely 0 trackers. The site will never have any cookies, and never log your IP address or any other data about its readers. The code for the site will also be publicly available for your analysis. You can view the code [here](https://github.com/gabemhouts/skepticaltechnologist) on GitHub.
 
 Thank you for checking out the site, I hope you enjoy the Skeptical Technologist!
+
+-Gabe Houts
+
+---
+
+Have any questions, comments, or concerns? Please dont hesitate to [contact us](/contact-us)!
+<feedback@skepticaltechnologist.org>
