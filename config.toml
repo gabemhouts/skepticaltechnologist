@@ -28,7 +28,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "The Skeptical Technologist"
-    subtitle = "Taking in the world with a heavy dose of techno-skepticism"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
