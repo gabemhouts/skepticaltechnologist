@@ -4,7 +4,7 @@ date = "2022-06-24"
 author = "Gabe Houts"
 cover = ""
 description = "Just since the school shooting in Uvalde, Texas, about a month ago, there have been over 50 deadly mass shootings in the United States. In the current state of constant gun violence, no one is safe."
-draft = "true"
+draft = "false"
 type = "posts"
 +++
 
