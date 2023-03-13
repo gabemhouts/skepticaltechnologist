@@ -44,7 +44,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "ST"
+      logoText = "The Skeptical Technologist"
       logoHomeLink = "/"
     # or
     #
