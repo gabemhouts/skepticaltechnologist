@@ -5,7 +5,7 @@ author = "Gabe Houts"
 cover = "img/panopticon.webp"
 description = "In recent times, internet surveillance has gotten to the point that people have come to expect that their every move is being watched."
 draft = "false"
-type = "posts"
+type = "true"
 toc = false
 +++
 

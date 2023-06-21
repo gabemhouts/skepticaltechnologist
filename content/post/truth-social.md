@@ -4,7 +4,7 @@ date = "2022-02-20"
 author = "Gabe Houts"
 cover = ""
 description = "Set to release tomorrow, Trump's social media platform Truth Social could create a toxic environment that encourages controversy."
-draft = "false"
+draft = "true"
 type = "posts"
 +++
 

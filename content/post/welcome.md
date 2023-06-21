@@ -4,7 +4,7 @@ date = "2022-01-30"
 author = "Gabe Houts"
 cover = ""
 description = "Welcome to the Skeptical Technologist website!"
-draft = "false"
+draft = "true"
 type = "posts"
 +++
 
